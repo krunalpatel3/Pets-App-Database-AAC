@@ -10,6 +10,11 @@ It is Made using **Android architecture components**.
 Here we are using **LiveData instead of Loader**. We can use **LiveData instead of Loader**.
 You can Check this documentation for Loader and LiveData [Click here](https://developer.android.com/guide/components/loaders).
 
+### Question:-
+
+1) Can we use **LiveData instead of Loader**?<br>
+**Ans**:- Yes we can use **LiveData instead of Loader**.
+
 Database Operations use:-
 
 1) Insert.
