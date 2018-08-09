@@ -2,8 +2,8 @@
 
 This app save data of Pets Like Name,age,Breed,Gender.
 It is Made using **Android architecture components**.
-**Repository pattern use**.
-**Thread Pool use**.This app is part of Udacity android data storage.This app also show's that **how to get or query data from only two columns in the table and Diplay in ListView in Room persistence library or Room Database**.
+**Repository pattern used**.
+**Thread Pool used**.This app is part of Udacity android data storage.This app also show's that **how to get or query data from only two columns in the table and Diplay in ListView in Room persistence library or Room Database**.
 
 ### Note:-
 
