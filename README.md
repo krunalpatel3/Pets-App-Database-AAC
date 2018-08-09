@@ -17,15 +17,15 @@ You can Check this documentation for Loader and LiveData [Click here](https://de
 
 - Database Operations use:-
 
-  1) Insert.
-  2) Update.
-  3) Delete.
+ 1) Insert.
+ 2) Update.
+ 3) Delete.
 
 - Android architecture components:-
 
-  1) LiveData.
-  2) ViewModel.
-  3) Room Persistence Library. 
+ 1) LiveData.
+ 2) ViewModel.
+ 3) Room Persistence Library. 
 
 It also show's you that how to display alertdialog if the user have Click on the EditText View.
 
