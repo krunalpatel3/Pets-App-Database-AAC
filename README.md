@@ -15,13 +15,13 @@ You can Check this documentation for Loader and LiveData [Click here](https://de
 1) Can we use **LiveData instead of Loader**?<br>
 **Ans**:- Yes we can use **LiveData instead of Loader**.
 
-Database Operations use:-
+- Database Operations use:-
 
 1) Insert.
 2) Update.
 3) Delete.
 
-Android architecture components:-
+- Android architecture components:-
 
 1) LiveData.
 2) ViewModel.
