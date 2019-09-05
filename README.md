@@ -1,4 +1,4 @@
-# Pets App (Android architecture components)
+# Pets App (Android architecture components or Android Jetpack)
 
 This app save data of Pets Like Name,age,Breed,Gender.
 It is Made using **Android architecture components**.
